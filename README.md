@@ -33,5 +33,9 @@ you can import from the old Smarttrack DB
 `senders`
 `signatures`
 
+The main program is mailroom.py, i have include some other testing program.
 
+I also have a android program for user to do the signature when they receive the package.
+
+Will also upload to github
 
